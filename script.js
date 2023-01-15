@@ -36,5 +36,5 @@ document.querySelector("#cards").innerHTML =
         "02/12",
         "sexta",
         createGame("Hungary", "14:00", "Camaroon")
-      )
-
+      ) 
+    

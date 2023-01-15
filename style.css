@@ -35,6 +35,7 @@ body {
   background-image: var(--bg);
   background-position: top center; /*y top , x center*/ 
   background-repeat: no-repeat;
+  background-size: cover;
 
   /* background: #121214 var(--bg) no-repeat top center/cover; VERSÃO CURTA*/
 }
